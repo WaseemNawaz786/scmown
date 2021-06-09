@@ -1,0 +1,2 @@
+# scmown
+software configuration management 
